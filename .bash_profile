@@ -7,3 +7,6 @@ fi
 
 alias nano='nano -w'
 alias passgen='openssl rand -base64 10'
+alias df="df -hP"
+alias du="du -h"
+alias gpom="git pull origin master"
