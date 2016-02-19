@@ -1,0 +1,5 @@
+[user]
+      	name = Ben Lieberman
+        email = blieberman@brandywine.net
+[push]
+      	default = simple
