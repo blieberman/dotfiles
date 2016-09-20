@@ -7,3 +7,5 @@ complete -W "$(echo `cat ~/.ssh/known_hosts | cut -f 1 -d ' ' | sed -e s/,.*//g 
 complete -W "$(echo `cat ~/.ssh/known_hosts | cut -f 1 -d ' ' | sed -e s/,.*//g | uniq | grep -v "\["`;)" host
 export SVN_EDITOR=nano
 export EDITOR="/usr/bin/nano -w"
+eval $(thefuck --alias)
+ulimit -S -n 2048
