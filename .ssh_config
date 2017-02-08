@@ -1,0 +1,8 @@
+Host *
+  ServerAliveInterval 60
+  ForwardAgent yes
+
+Host github.com
+  HostName github.com
+  IdentityFile ~/.ssh/gh-personal
+  User git
