@@ -14,7 +14,6 @@ include /usr/local/share/nano/gentoo.nanorc
 include /usr/local/share/nano/groff.nanorc
 include /usr/local/share/nano/html.nanorc
 include /usr/local/share/nano/java.nanorc
-include /usr/local/share/nano/json.nanorc
 include /usr/local/share/nano/makefile.nanorc
 include /usr/local/share/nano/man.nanorc
 include /usr/local/share/nano/mgp.nanorc
