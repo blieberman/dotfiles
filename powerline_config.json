@@ -5,6 +5,7 @@
     "ssh",
     "cwd",
     "git",
-    "newline"
+    "newline",
+    "root"
   ]
 }
